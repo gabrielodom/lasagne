@@ -1,6 +1,9 @@
 # List of Lasagne Ingredients
 tomatoes
-ricotta
-mozzerela
+ricotta cheese
+mozzerela cheese
 noodles
 basil
+garlic
+tomato paste
+meat
