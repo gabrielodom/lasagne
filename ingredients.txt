@@ -7,3 +7,6 @@ basil
 garlic
 tomato paste
 meat
+onion
+
+# Mix the basil, crushed tomatoes, tomato paste.
